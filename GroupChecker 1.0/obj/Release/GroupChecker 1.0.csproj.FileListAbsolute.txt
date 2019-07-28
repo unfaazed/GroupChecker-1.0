@@ -1,0 +1,9 @@
+D:\Visual Studio Project\GroupChecker 1.0\GroupChecker 1.0\bin\Release\GroupChecker 1.0.exe.config
+D:\Visual Studio Project\GroupChecker 1.0\GroupChecker 1.0\bin\Release\GroupChecker 1.0.exe
+D:\Visual Studio Project\GroupChecker 1.0\GroupChecker 1.0\bin\Release\GroupChecker 1.0.pdb
+D:\Visual Studio Project\GroupChecker 1.0\GroupChecker 1.0\obj\Release\GroupChecker_1._0.Form1.resources
+D:\Visual Studio Project\GroupChecker 1.0\GroupChecker 1.0\obj\Release\GroupChecker_1._0.Properties.Resources.resources
+D:\Visual Studio Project\GroupChecker 1.0\GroupChecker 1.0\obj\Release\GroupChecker 1.0.csproj.GenerateResource.cache
+D:\Visual Studio Project\GroupChecker 1.0\GroupChecker 1.0\obj\Release\GroupChecker 1.0.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\GroupChecker 1.0\GroupChecker 1.0\obj\Release\GroupChecker 1.0.exe
+D:\Visual Studio Project\GroupChecker 1.0\GroupChecker 1.0\obj\Release\GroupChecker 1.0.pdb
